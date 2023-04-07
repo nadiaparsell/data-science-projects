@@ -11,6 +11,9 @@ conda activate ds_env
 ```
 
 3. Install libraries
-   - pip install black
-   - pip install -e .
-   - pip install -r requirements.txt
+
+```
+pip install black
+pip install -e .
+pip install -r requirements.txt
+```
